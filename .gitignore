@@ -1,3 +1,6 @@
 /venv
 *.pkl
 =4.2.0
+gist.githubusercontent.com/
+raw.githubusercontent.com/
+*.xml
